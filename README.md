@@ -4,7 +4,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="#">Jhon Jairo</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/SVnyqdU.png">  
+<img src="https://imgur.com/a/js0zUbG">  
 
 <!--h2 without bottom border-->
 
@@ -17,7 +17,7 @@
 
 <!--Intro start-->
 
-<a href="https://github.com/sponsors/JhonJMD"><img align="left" width="150" height="150" src="https://i.imgur.com/DeH0312.gif"></a>
+<a href="https://github.com/sponsors/JhonJMD"><img align="left" width="150" height="150" src="https://imgur.com/a/hVVC90z"></a>
 
 - 🔭 I’m currently working on **Java, Spring Boot, Mysql**
 - 🌱 I’m currently learning **hexagonal and SOLID architecture in Java and Spring Boot.**
